@@ -1,8 +1,8 @@
 # devOpsHomework
 
-This project include 2 files hello.sh and hello.js!
+This is DevOps course project.
 
-Some text for merge
+Some changes for check git flow!
 
 ### Branching strategy
 [Branching strategy image](./images/gitFlow.jpg)
