@@ -7,5 +7,4 @@ for file in `ls -lS /var/log | awk '{print $4}'`
 
     echo "$file" >> ./var_log.txt
 done
-
-~         
+     
