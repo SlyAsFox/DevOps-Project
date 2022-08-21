@@ -1,0 +1,43 @@
+find: /Users/fox//Library/Application Support/CallHistoryTransactions: Operation not permitted
+find: /Users/fox//Library/Application Support/CloudDocs/session/db: Operation not permitted
+find: /Users/fox//Library/Application Support/com.apple.sharedfilelist: Operation not permitted
+find: /Users/fox//Library/Application Support/Knowledge: Operation not permitted
+find: /Users/fox//Library/Application Support/com.apple.TCC: Operation not permitted
+find: /Users/fox//Library/Application Support/FileProvider: Operation not permitted
+find: /Users/fox//Library/Application Support/com.apple.avfoundation/Frecents: Operation not permitted
+find: /Users/fox//Library/Application Support/CallHistoryDB: Operation not permitted
+find: /Users/fox//Library/Assistant/SiriVocabulary: Operation not permitted
+find: /Users/fox//Library/Autosave Information: Operation not permitted
+find: /Users/fox//Library/IdentityServices: Operation not permitted
+find: /Users/fox//Library/Messages: Operation not permitted
+find: /Users/fox//Library/HomeKit: Operation not permitted
+find: /Users/fox//Library/Sharing: Operation not permitted
+find: /Users/fox//Library/Mail: Operation not permitted
+find: /Users/fox//Library/DuetExpertCenter: Operation not permitted
+find: /Users/fox//Library/Accounts: Operation not permitted
+find: /Users/fox//Library/Safari: Operation not permitted
+find: /Users/fox//Library/Biome: Operation not permitted
+find: /Users/fox//Library/Shortcuts: Operation not permitted
+find: /Users/fox//Library/Suggestions: Operation not permitted
+find: /Users/fox//Library/Group Containers/group.com.apple.secure-control-center-preferences: Operation not permitted
+find: /Users/fox//Library/Group Containers/group.com.apple.notes: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.archiveutility: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.Safari: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.mail: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.Notes: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents: Operation not permitted
+find: /Users/fox//Library/Containers/com.apple.stocks: Operation not permitted
+find: /Users/fox//Library/PersonalizationPortrait: Operation not permitted
+find: /Users/fox//Library/Metadata/CoreSpotlight: Operation not permitted
+find: /Users/fox//Library/Metadata/com.apple.IntelligentSuggestions: Operation not permitted
+find: /Users/fox//Library/Cookies: Operation not permitted
+find: /Users/fox//Library/CoreFollowUp: Operation not permitted
+find: /Users/fox//Library/StatusKit: Operation not permitted
+find: /Users/fox//Library/Caches/com.apple.HomeKit: Operation not permitted
+find: /Users/fox//Library/Caches/CloudKit: Operation not permitted
+find: /Users/fox//Library/Caches/com.apple.Safari: Operation not permitted
+find: /Users/fox//Library/Caches/FamilyCircle: Operation not permitted
+find: /Users/fox//Library/Caches/com.apple.homed: Operation not permitted
+find: /Users/fox//Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
+find: /Users/fox//.Trash: Operation not permitted

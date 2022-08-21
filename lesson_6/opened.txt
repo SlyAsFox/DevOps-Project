@@ -1,0 +1,4 @@
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+bash    22479  fox    0u   CHR   16,4  0t44424  877 /dev/ttys004
+bash    22479  fox    1u   CHR   16,4  0t44424  877 /dev/ttys004
+bash    22479  fox    2u   CHR   16,4  0t44424  877 /dev/ttys004
